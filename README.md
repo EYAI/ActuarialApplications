@@ -11,3 +11,10 @@ A comprehensive application tailored for actuaries, providing applications from 
 - **Mortality Provisions:** Determine the reserves required to cover future death claims, ensuring financial stability for insurers.
 
 - **Customizable Parameters:** Tailor calculations to specific scenarios, allowing actuaries to address unique challenges in their work.
+
+  ## Report:
+
+For a more in-depth understanding of the methodologies, data sources, and results, please refer to the [RapportActuariatVie.pdf](https://github.com/EYAI/ActuarialApplications/files/13060504/RapportActuariatVie.pdf)
+
+
+  
