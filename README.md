@@ -10,6 +10,4 @@ A comprehensive application tailored for actuaries, providing applications from 
 
 - **Mortality Provisions:** Determine the reserves required to cover future death claims, ensuring financial stability for insurers.
 
-- **User-Friendly Interface:** Intuitive design and interactive visuals make complex calculations accessible, reducing the time required for analysis.
-
 - **Customizable Parameters:** Tailor calculations to specific scenarios, allowing actuaries to address unique challenges in their work.
