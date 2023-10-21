@@ -15,8 +15,9 @@ A comprehensive application tailored for actuaries, providing applications from 
   ## Report:
 
 For a more in-depth understanding of the methodologies, data sources, and results, please refer to the [RapportActuariatVie.pdf](https://github.com/EYAI/ActuarialApplications/files/13060504/RapportActuariatVie.pdf)
+<img width="612" alt="Capture d’écran 2023-10-21 à 12 52 23 PM" src="https://github.com/EYAI/ActuarialApplications/assets/46861289/c5fcc873-5989-4b4f-8180-1326026a4c90">
 
-![Uploading Capture d’écran 2023-10-21 à 12.52.23 PM.png…]()
+
 
 
   
